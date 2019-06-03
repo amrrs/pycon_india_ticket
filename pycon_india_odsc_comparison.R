@@ -1,6 +1,5 @@
 library(tidyverse)
-library(extrafont)
-loadfonts()
+
 tribble(~Event, ~Ticket,
   "ODSC",9000,
   "The Fifth Elephant", 7200,
